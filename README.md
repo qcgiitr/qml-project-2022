@@ -12,11 +12,4 @@ Solving NP-hard optimization problems using Multi-Angle QAOA:
 
 
 
--> Max-Clique Problem
-|Graph|Basic QAOA (10 layers)|Multi-Angle QAOA|
-|:---  |:---: |:---: |
-|Chvatal Graph|||
-|Frucht Graph|||
-|Icosahedral Graph||| 
-|Petersen Graph|||
 
