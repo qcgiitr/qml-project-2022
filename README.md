@@ -1,6 +1,7 @@
-# qml-project-2022
-QML Project
-| |Max-Cut Problem| |
+# quantum optimization-project-2022
+Quantum Optimization using Multi-Angle QAOA:
+
+Max-Cut Problem
 |Graph|Basic QAOA (10 layers)|Multi-Angle QAOA|
 |:---  |:---: |:---: |
 |Chvatal Graph|0.74501953125|0.92021484375 (3 layers)|
