@@ -1,7 +1,7 @@
 # quantum optimization-project-2022
-Quantum Optimization using Multi-Angle QAOA:
+Solving NP-hard optimization problems using Multi-Angle QAOA:
 
-Max-Cut Problem
+-> Max-Cut Problem
 |Graph|Basic QAOA (10 layers)|Multi-Angle QAOA|
 |:---  |:---: |:---: |
 |Chvatal Graph|0.74501953125|0.92021484375 (3 layers)|
