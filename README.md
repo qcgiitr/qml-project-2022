@@ -1,10 +1,22 @@
 # quantum optimization-project-2022
 Solving NP-hard optimization problems using Multi-Angle QAOA:
 
+
 -> Max-Cut Problem
 |Graph|Basic QAOA (10 layers)|Multi-Angle QAOA|
 |:---  |:---: |:---: |
-|Chvatal Graph|0.74501953125|0.92021484375 (3 layers)|
-|Frucht Graph|0.71875|0.8690104167 (2 layers)|
-|Icosahedral Graph|0.786474609375|0.927978515625 (2 layers)| 
-|Petersen Graph|0.6564127604167|0.91861979167 (2 layers)|
+|Chvatal Graph|0.74502|0.92021 (3 layers)|
+|Frucht Graph|0.71875|0.86901 (2 layers)|
+|Icosahedral Graph|0.78647|0.92798 (2 layers)| 
+|Petersen Graph|0.65641|0.91862 (2 layers)|
+
+
+
+-> Max-Clique Problem
+|Graph|Basic QAOA (10 layers)|Multi-Angle QAOA|
+|:---  |:---: |:---: |
+|Chvatal Graph|||
+|Frucht Graph|||
+|Icosahedral Graph||| 
+|Petersen Graph|||
+
